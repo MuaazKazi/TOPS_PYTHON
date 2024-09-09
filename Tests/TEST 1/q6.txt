@@ -1,0 +1,13 @@
+# diff bet == and is in 
+
+1. Python == : In python ==  operator is use when we want to give equal value to two variables
+
+Example :
+a=10
+a==b
+here b has also same value 10.
+
+
+
+2. Python(is in): python is in operator checks that the value of given variables are same and check if they have also same memory 
+location.

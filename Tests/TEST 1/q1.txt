@@ -1,0 +1,23 @@
+# Tokens
+
+Python Tokens are:
+1.Identifier:  in identifier we can use capital and small alphabates we can use digits and underscore.
+-identifier are case sensitive means (Tops) and (TOPS) are not same.
+-identifiers can't be start with digits.
+-identifier can not be keywords.
+-widespace are not allowed.
+
+2. Datatypes: in puthon datatypes defines which type of value a variable hold.
+Example :
+int=1   float = 1.1  complex number= 2j+1
+string= "words"
+
+
+3.variables: In python variable is an any element or entity which is use to store the value.
+Marks= 100
+here "Marks" is variable and it is storing integer value.
+
+
+4.keywords: In python keywords are specified words or values which are use for specific work.
+Example: 
+return , false , true, break , continue.
