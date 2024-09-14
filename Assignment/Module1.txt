@@ -1,0 +1,40 @@
+                                                                               MODULE: 1 
+
+1.What is software? 
+-Software is a set of instruction OR collection of instructions or code that tells a computer or device how to perform specific tasks.
+
+- It can be categorized into two main types:
+1 .system software. 
+2. Application software.
+
+
+
+2. What are the types of applications?
+- Here are the main types:
+
+1.Desktop Applications: Software installed on a desktop or laptop computer.
+Examples: Microsoft Office (Word, Excel, PowerPoint), Adobe Photoshop, VLC Media Player.
+
+2. Mobile Applications: Apps designed to run on mobile devices like smartphones and tablets.
+Examples: Instagram, WhatsApp, Google Maps.
+
+3.Web Applications: Software applications that run on web browsers.
+Examples: Gmail, Facebook.
+
+
+
+3.What is programming?
+-Programming, also known as coding or software development, is the process of creating instructions for computers to execute.
+-It involves writing code using programming languages that computers can understand and interpret to perform specific tasks or solve problems. 
+-Programming allows developers to create software applications, websites, games, and various digital tools.
+
+
+
+4.What is python?
+-Python is a high-level, interpreted programming language known for its simplicity and readability. Making it easy for programmers to express concept in fewer line of codes compared to other programming language.
+-Python is versatile and widely use in various fields like web development, data science, and automation.
+
+
+
+
+
