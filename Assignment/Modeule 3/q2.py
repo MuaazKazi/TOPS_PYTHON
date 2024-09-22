@@ -6,10 +6,6 @@ my_list = [1, 2, 3, 4, 5]
 remove_last=my_list[:-1]
 print("List after removing last object:",remove_last)
 
-# 2
-list=[2, 33, 222, 14,25]
-l=list[-1]
-print(l)
 
 
 

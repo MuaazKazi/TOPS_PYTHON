@@ -1,2 +1,3 @@
-print(f"first five:{n}",first_five)
-    
+
+# unzip_list=my_list(zip(*my_list))
+# print(unzip_list)
