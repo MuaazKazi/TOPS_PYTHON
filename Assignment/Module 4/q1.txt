@@ -1,0 +1,10 @@
+ What is File function in python? What is keywords to create and write file.
+
+
+-> FILE FUNCTION: In Python, the file function is commonly referenced through the built-in open() function, which is used to create,
+ read, or write files.
+
+ 'w': Opens a file for writing. 
+ 'a': Opens a file for appending. Data written to the file is added at the end.
+ 'x': Opens a file for exclusive creation. If the file already exists, the operation fails.
+ 

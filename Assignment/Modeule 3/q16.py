@@ -1,5 +1,5 @@
 # Write a Python program to check whether a list contains a sub list
-list1 = [1, 2, 3, 4, 5]
+list1 = [1, [2, 3, 4,], 5]
 sub_list = [2, 3,4]
 sub_len = len(sub_list)
 list_len = len(list1)

@@ -7,8 +7,9 @@ def compare_list(list1,list2):
         
         else:
             print("No common element found.")
-            False
-list1=[7,8,9,10]
+            return False
+            
+list1=[7,2,8,9,10]
 list2=[1,2,3,7]
 result=compare_list(list1,list2)
 print(result)
