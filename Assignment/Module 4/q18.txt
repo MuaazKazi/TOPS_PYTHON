@@ -1,0 +1,5 @@
+#What happens when "1"== 1 is executed?
+
+
+When the expression "1" == 1 is executed in Python, it evaluates to False because Python is comparing two different types of values: 
+a string ("1") and an integer (1).

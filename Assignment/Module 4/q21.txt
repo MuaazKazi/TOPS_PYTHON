@@ -1,0 +1,22 @@
+What are oops concepts? Is multiple inheritance supported in java 
+
+-Object-Oriented Programming (OOP) is a programming paradigm based on the concept of "objects", which can contain both data and methods 
+that operate on the data. OOP provides a way to structure code to make it reusable, scalable, and maintainable. 
+
+-The key OOP concepts are:
+1.Class: A blueprint for creating objects.
+
+2.Object: An instance of a class 
+
+3.Inheritance: When one class inherits properties from another 
+
+4.Encapsulation: Bundling data and methods together and controlling access .
+
+5.Polymorphism: The ability to use a single interface for different data types .
+
+6.Abstraction: Hiding complex details and showing only the essentials
+
+
+
+-No, Java does not support multiple inheritance with classes. This means a class can't inherit from more than one class 
+
